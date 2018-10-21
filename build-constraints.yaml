@@ -4293,7 +4293,6 @@ packages:
         - static-text < 0
         - stm-containers < 0
         - stm-hamt < 0
-        - store < 0
         - stratosphere < 0
         - stringsearch < 0
         - strive < 0
